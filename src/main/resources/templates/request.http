@@ -1,0 +1,6 @@
+
+GET http://localhost:9999/api/category
+
+################################################################### POSTMAN 에서 해도 됨
+
+PUT http://localhost:9999/api/category?name=여행
